@@ -1,5 +1,4 @@
-1 project 
-
+1 project :
 
 
 Rock, paper and scissors game
