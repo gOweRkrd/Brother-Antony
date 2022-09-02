@@ -1,4 +1,3 @@
-1 project :
+Project 1 - Storm Viewer.
 
-
-Rock, paper and scissors game
+TableViews, imageViews, app bundles, FileManager, typecasting, viewControllers, storyboards, outlets, Auto Layout, UIImage.
