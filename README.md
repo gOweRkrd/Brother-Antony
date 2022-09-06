@@ -6,6 +6,6 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
 
 Project 2 - Animals sounds
 
-TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,UITests,<img width="354" alt="Снимок экрана 2022-09-06 в 16 41 53"
+TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,UITests
                                        
  <img width="354" alt="Снимок экрана 2022-09-06 в 16 41 53" src="https://user-images.githubusercontent.com/110721351/188656165-c05febc8-864a-4a02-915d-fe4e7c499ce4.png">
