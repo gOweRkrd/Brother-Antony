@@ -12,6 +12,6 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
 
 Project 3 - MemeMaker
 
-TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Assects
+TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Assets
 
 <img width="350" alt="Снимок экрана 2022-09-09 в 15 20 04" src="https://user-images.githubusercontent.com/110721351/189348815-d9239063-5727-4504-a601-0f05faf96e91.png">
