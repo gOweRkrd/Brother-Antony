@@ -21,6 +21,6 @@ Project 4 - Chat bot.
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Assets
 
-![Uploading Снимок экрана 2022-09-14 в 18.26.11.png…]()
+<img width="338" alt="Снимок экрана 2022-09-14 в 18 26 11" src="https://user-images.githubusercontent.com/110721351/190197564-701c6409-6038-4ed9-a15b-8ff9df19f4c4.png">
 
 
