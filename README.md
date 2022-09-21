@@ -1,4 +1,4 @@
-Project 1 - Rock, paper and scissors game.
+Project 1 - Rock, paper and scissors game
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,GameplayKit,UITests
 
@@ -23,4 +23,11 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
 
 <img width="338" alt="Снимок экрана 2022-09-14 в 18 26 11" src="https://user-images.githubusercontent.com/110721351/190197564-701c6409-6038-4ed9-a15b-8ff9df19f4c4.png">
 
+
+Project 5 - ColorMix
+
+
+TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Button,Slider,Assets
+
+<img width="339" alt="Снимок экрана 2022-09-21 в 18 56 07" src="https://user-images.githubusercontent.com/110721351/191553077-80af4945-c263-4691-8966-d39dff1446f1.png">
 
