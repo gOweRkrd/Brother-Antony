@@ -2,26 +2,26 @@ Project 1 - Rock, paper and scissors game
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,GameplayKit,UITests
 
-<img width="346" alt="188175168-443b7540-1a61-4f30-927b-8067a52510fe" src="https://user-images.githubusercontent.com/110721351/188176857-57f29604-529d-4331-927e-2d9d367ab599.png">
+<img width="250" alt="188175168-443b7540-1a61-4f30-927b-8067a52510fe" src="https://user-images.githubusercontent.com/110721351/188176857-57f29604-529d-4331-927e-2d9d367ab599.png">
 
 Project 2 - Animal sounds
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,UITests
                                        
- <img width="354" alt="Снимок экрана 2022-09-06 в 16 41 53" src="https://user-images.githubusercontent.com/110721351/188656165-c05febc8-864a-4a02-915d-fe4e7c499ce4.png">
+ <img width="250" alt="Снимок экрана 2022-09-06 в 16 41 53" src="https://user-images.githubusercontent.com/110721351/188656165-c05febc8-864a-4a02-915d-fe4e7c499ce4.png">
 
 Project 3 - MemeMaker
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Assets
 
-<img width="350" alt="Снимок экрана 2022-09-09 в 15 20 04" src="https://user-images.githubusercontent.com/110721351/189348815-d9239063-5727-4504-a601-0f05faf96e91.png">
+<img width="250" alt="Снимок экрана 2022-09-09 в 15 20 04" src="https://user-images.githubusercontent.com/110721351/189348815-d9239063-5727-4504-a601-0f05faf96e91.png">
 
 Project 4 - Chat bot
 
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Button,Assets
 
-<img width="338" alt="Снимок экрана 2022-09-14 в 18 26 11" src="https://user-images.githubusercontent.com/110721351/190197564-701c6409-6038-4ed9-a15b-8ff9df19f4c4.png">
+<img width="250" alt="Снимок экрана 2022-09-14 в 18 26 11" src="https://user-images.githubusercontent.com/110721351/190197564-701c6409-6038-4ed9-a15b-8ff9df19f4c4.png">
 
 
 Project 5 - ColorMix
@@ -29,5 +29,5 @@ Project 5 - ColorMix
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Button,Slider,Assets
 
-<img width="339" alt="Снимок экрана 2022-09-21 в 18 56 07" src="https://user-images.githubusercontent.com/110721351/191553077-80af4945-c263-4691-8966-d39dff1446f1.png">
+<img width="250" alt="Снимок экрана 2022-09-21 в 18 56 07" src="https://user-images.githubusercontent.com/110721351/191553077-80af4945-c263-4691-8966-d39dff1446f1.png">
 
