@@ -1,5 +1,5 @@
 
-Project 1 - Rock, paper and scissors game
+### Project 1 - Rock, paper and scissors game
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,GameplayKit,UITests
 
@@ -7,7 +7,7 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
 
 
 
-Project 2 - Animal sounds
+### Project 2 - Animal sounds
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,UITests
 
@@ -15,14 +15,14 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
                                    
 
 
-Project 3 - MemeMaker
+### Project 3 - MemeMaker
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Assets
 
 ![Simulator Screen Recording - iPhone 13 Pro - 2022-10-20 at 14 44 09](https://user-images.githubusercontent.com/110721351/196901047-e64e622f-847c-481b-b5cd-7de8f66808a6.gif)
 
 
-Project 4 - Chat bot
+### Project 4 - Chat bot
 
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Button,Assets
@@ -31,7 +31,7 @@ TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBact
 
 
 
-Project 5 - ColorMix
+### Project 5 - ColorMix
 
 
 TableViews, Stack View, ViewControllers, Storyboards,Constrains, IBoutlets,IBactions,Textfield,Label,Button,Slider,Assets
